@@ -1,0 +1,1 @@
+The printf project is a collaboration between Joshua Ashaire and Akaolise Olodu, students of Software Engineering at ALX, were a function named _printf imitates the actual printf command located in the stdio.h library.
